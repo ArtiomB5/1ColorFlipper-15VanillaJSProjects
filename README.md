@@ -13,4 +13,4 @@ Key concepts covered:
 <li>array.length</li>
 </ul>
 <br>
-<a href="https://artiomb5.github.io/1ColorFlipper-15VanillaJSProjects/">Color Flipper</a>
+<a href="https://artiomb5.github.io/1ColorFlipper-15VanillaJSProjects/">Link</a>
